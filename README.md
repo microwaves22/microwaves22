@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Michelle!
 
+I a 19-year-old full-stack developer exploring app and web development. 
+
+🌱 I’m currently learning HTML, CSS, 
 <!--
 **microwaves22/microwaves22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
