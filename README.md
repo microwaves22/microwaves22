@@ -2,7 +2,12 @@
 
 I a 19-year-old full-stack developer exploring app and web development. 
 
-🌱 I’m currently learning HTML, CSS, 
+- I attend the University of Illinois Chicago.
+- I am currently pursuing a double degree in Psychology and Computer Science.
+
+- I’m currently learning HTML, CSS, and dart.
+
+
 <!--
 **microwaves22/microwaves22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
