@@ -1,24 +1,18 @@
-## Hi there 👋 I'm Michelle!
+👋 Hey there! I'm Michelle!
+💻 Full-Stack Developer | 📚 Psychology & CS Student | 🚀 Tech Explorer
+I'm a 19-year-old full-stack developer passionate about web and app development. I love creating intuitive and user-friendly applications, blending my knowledge of computer science and psychology to build technology that enhances user experience.
 
-I a 19-year-old full-stack developer exploring app and web development. 
+🚀 About Me
+🎓 University: University of Illinois Chicago
+🎓 Majors: Double degree in Psychology & Computer Science
 
-- I attend the University of Illinois Chicago.
-- I am currently pursuing a double degree in Psychology and Computer Science.
+🌱 Currently Learning:
 
-- I’m currently learning HTML, CSS, and dart.
+Web Technologies: HTML, CSS
+Mobile Development: Dart & Flutter
+Backend: Always diving deeper into full-stack concepts
+🔍 Interests:
 
-
-<!--
-**microwaves22/microwaves22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend & Backend Development
+UI/UX Psychology in Tech
+Building cool projects that solve real-world problems
